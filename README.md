@@ -1,6 +1,6 @@
 # Top Down Word Segmentation
 
-This project tries to perform word segmentation on Cantonese text with semantic awareness from a language model.
+Word segmentation on Cantonese text with semantic awareness
 
 ## Background
 

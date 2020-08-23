@@ -1,0 +1,8 @@
+jupyter
+requests
+beautifulsoup4
+transformers[torch]~=3.0.2
+sentencepiece
+torch~=1.6.0
+numpy
+scikit-learn
